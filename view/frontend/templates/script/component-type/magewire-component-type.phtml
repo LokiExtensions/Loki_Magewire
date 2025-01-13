@@ -1,0 +1,17 @@
+<script>
+    const LokiMagewireComponentType = {
+        ...LokiComponentType,
+        wireId: '',
+        async post(value) {
+            if (value instanceof Event) {
+                value = null;
+            }
+
+            if (!value) {
+                value = this.value;
+            }
+
+            Magewire.find(this.wireId).setValue(value);
+        }
+    }
+</script>

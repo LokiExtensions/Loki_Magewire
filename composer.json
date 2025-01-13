@@ -1,0 +1,21 @@
+{
+  "name": "yireo/magento2-loki-components-magewire",
+  "version": "0.0.1",
+  "description": "N/A",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "yireo/magento2-loki-components": "@dev*"
+  },
+  "license": [
+    "OSL-3.0"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Yireo\\LokiComponentsMagewire\\": ""
+    }
+  }
+}

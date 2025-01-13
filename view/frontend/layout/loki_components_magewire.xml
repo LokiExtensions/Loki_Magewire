@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <update handle="loki_components"/>
+
+    <body>
+        <referenceContainer name="loki-component-types">
+            <block name="loki-components.script.component-type.magewire" template="Yireo_LokiComponentsMagewire::script/component-type/magewire-component-type.phtml"/>
+        </referenceContainer>
+
+        <referenceContainer name="loki-components">
+            <block name="loki-components.script.component.magewire" template="Yireo_LokiComponents::script/component/magewire-component.phtml"/>
+        </referenceContainer>
+    </body>
+</page>
