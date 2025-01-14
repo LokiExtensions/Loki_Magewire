@@ -5,7 +5,7 @@
   "type": "magento2-module",
   "require": {
     "magento/framework": "*",
-    "yireo/magento2-loki-components": "@dev*"
+    "yireo/magento2-loki-components": "@dev"
   },
   "license": [
     "OSL-3.0"
