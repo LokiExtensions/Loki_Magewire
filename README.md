@@ -16,8 +16,6 @@ benefiting from client-side LokiComponent behaviour. The LokiComponent feature o
 Note that in the LokiCheckout, you can simply also add a block that is driven both client-side and server-side by Magewire.
 There is no requirement for a field to be a LokiComponent.
 
-Current status: Experimental
-
 ## Installation
 Install this package via composer (assuming you have setup the `composer.yireo.com` repository correctly already):
 ```bash
