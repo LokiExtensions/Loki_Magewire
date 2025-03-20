@@ -1,6 +1,12 @@
 {
-  "module": {
-    "Module Setup": "complete",
-    "Intended functionality": "draft"
-  }
+    "module": {
+        "Module Setup": {
+            "version": "1.0",
+            "status": "complete"
+        },
+        "Intended functionality": {
+            "version": "1.0",
+            "status": "draft"
+        }
+    }
 }
