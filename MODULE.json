@@ -4,5 +4,6 @@
         "Magewirephp_Magewire"
     ],
     "components": [],
-    "config": []
+    "config": [],
+    "tests": []
 }
