@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Yireo\LokiComponentsMagewire\Component;
+namespace Loki\Magewire\Component;
 
 use Yireo\LokiComponents\Component\ComponentViewModel;
 

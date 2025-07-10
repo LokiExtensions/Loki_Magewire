@@ -1,5 +1,5 @@
 {
-  "name": "yireo/magento2-loki-components-magewire",
+  "name": "loki/magento2-magewire",
   "version": "0.0.1",
   "description": "N/A",
   "type": "magento2-module",
@@ -15,7 +15,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Yireo\\LokiComponentsMagewire\\": ""
+      "Loki\\Magewire\\": ""
     }
   }
 }

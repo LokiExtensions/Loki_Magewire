@@ -1,4 +1,4 @@
-# Yireo_LokiComponentsMagewire
+# Loki_Magewire
 
 **This is an add-on package for adding Magewire components to the LokiComponents architecture.**
 
@@ -17,13 +17,13 @@ Note that in the LokiCheckout, you can simply also add a block that is driven bo
 There is no requirement for a field to be a LokiComponent.
 
 ## Installation
-Install this package via composer (assuming you have setup the `composer.yireo.com` repository correctly already):
+Install this package via composer:
 ```bash
-composer require yireo/magento2-loki-components-magewire
+composer require loki/magento2-magewire
 ```
 
 Next, enable this module:
 ```bash
-bin/magento module:enable Yireo_LokiComponentsMagewire
+bin/magento module:enable Loki_Magewire
 ```
 
