@@ -1,6 +1,6 @@
 {
     "modules": [
-        "Yireo_LokiComponents",
+        "Loki_Components",
         "Magewirephp_Magewire"
     ],
     "components": [],

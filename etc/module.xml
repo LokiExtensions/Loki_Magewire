@@ -3,7 +3,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Loki_Magewire">
         <sequence>
-            <module name="Yireo_LokiComponents"/>
+            <module name="Loki_Components"/>
             <module name="Magewirephp_Magewire"/>
         </sequence>
     </module>
