@@ -8,7 +8,7 @@
             <block name="loki-components.script.component-type.magewire" template="Loki_Magewire::script/component-type/magewire-component-type.phtml"/>
         </referenceContainer>
 
-        <referenceContainer name="loki-components">
+        <referenceContainer name="loki.script.component">
             <block name="loki-components.script.component.magewire" template="Loki_Magewire::script/component/magewire-component.phtml"/>
         </referenceContainer>
     </body>
