@@ -4,11 +4,11 @@
     <update handle="loki_components"/>
 
     <body>
-        <referenceContainer name="loki-component-types">
+        <referenceContainer name="loki.script.component-type">
             <block name="loki-components.script.component-type.magewire" template="Loki_Magewire::script/component-type/magewire-component-type.phtml"/>
         </referenceContainer>
 
-        <referenceContainer name="loki-components">
+        <referenceContainer name="loki.script.component">
             <block name="loki-components.script.component.magewire" template="Loki_Magewire::script/component/magewire-component.phtml"/>
         </referenceContainer>
     </body>
