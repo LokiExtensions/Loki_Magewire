@@ -1,14 +1,14 @@
 {
-    "name": "loki\/magento2-magewire",
+    "name": "loki/magento2-magewire",
     "version": "0.0.1",
-    "description": "N\/A",
+    "description": "N/A",
     "type": "magento2-module",
     "keywords": [
         "loki-experimental"
     ],
     "require": {
-        "magento\/framework": "^103.0",
-        "loki\/magento2-components": "^2.0"
+        "magento/framework": "^103.0",
+        "loki/magento2-components": "^2.0"
     },
     "license": [
         "OSL-3.0"
