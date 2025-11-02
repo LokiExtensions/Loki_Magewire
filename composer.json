@@ -1,21 +1,24 @@
 {
-  "name": "loki/magento2-magewire",
-  "version": "0.0.1",
-  "description": "N/A",
-  "type": "magento2-module",
-  "require": {
-    "magento/framework": "^103.0",
-    "loki/magento2-components": "^2.0"
-  },
-  "license": [
-    "OSL-3.0"
-  ],
-  "autoload": {
-    "files": [
-      "registration.php"
+    "name": "loki\/magento2-magewire",
+    "version": "0.0.1",
+    "description": "N\/A",
+    "type": "magento2-module",
+    "keywords": [
+        "loki-experimental"
     ],
-    "psr-4": {
-      "Loki\\Magewire\\": ""
+    "require": {
+        "magento\/framework": "^103.0",
+        "loki\/magento2-components": "^2.0"
+    },
+    "license": [
+        "OSL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Loki\\Magewire\\": ""
+        }
     }
-  }
 }
