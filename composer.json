@@ -4,7 +4,8 @@
     "description": "N/A",
     "type": "magento2-module",
     "keywords": [
-        "loki-experimental"
+        "loki",
+        "loki-tag-experimental"
     ],
     "require": {
         "magento/framework": "^103.0",
